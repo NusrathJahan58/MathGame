@@ -1,12 +1,8 @@
-html {
-    height: 100%;
-    /* background: radial-gradient(circle, #fff, #ccc); */
-}
+
 body{
     ackground-image: url(math.jpg);
     background-repeat: no-repeat; 
     background-size: cover;
-    background-position: center;
 }
 #container {
     height: 400px;
